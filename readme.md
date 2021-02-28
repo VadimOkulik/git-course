@@ -1,3 +1,3 @@
-# Gir and GirHub course
+# Git and GitHub course
 
 Crash coourse for Git
